@@ -145,8 +145,7 @@ nav {
 /* ABOUT ME */
 
 #about-me {
-  min-height: 100%;
-  padding-bottom: 40px;
+  min-height: 68vh;
   display: flex;
   flex-direction: column;
 }
