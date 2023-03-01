@@ -145,7 +145,8 @@ nav {
 /* ABOUT ME */
 
 #about-me {
-  min-height: 62vh;
+  min-height: 100%;
+  padding-bottom: 40px;
   display: flex;
   flex-direction: column;
 }
@@ -213,7 +214,7 @@ nav {
 
 .about-me__links {
   animation: fade-up 650ms 800ms backwards;
-  margin-bottom: -500px;
+  margin-bottom: 000px;
 }
 
 @keyframes fade-up {
